@@ -1,0 +1,2 @@
+# portfolio
+Ipari informatikai portfolio
